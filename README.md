@@ -21,6 +21,7 @@ security-writeups/
 - [Sigreturn-Oriented Programming](wargames/dreamhack.io/sigreturn-oriented-programming-srop/)
 - [Bypassing PIE and RELRO](concepts/bypassing-pie-and-relro/)
 - [Return to Library](wargames/dreamhack.io/return-to-library-rtl/)
+- [scriptCTF 2026](ctf-competitions/scriptCTF/)
 
 ## Platforms
 
