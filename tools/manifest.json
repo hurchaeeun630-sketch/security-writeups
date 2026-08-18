@@ -1,0 +1,296 @@
+[
+  {
+    "title": "dreamhack.io: basic_heap_overflow",
+    "platform": "dreamhack.io",
+    "slug": "basic-heap-overflow",
+    "source": "https://blog.naver.com/chaeeunhur630/224359345726"
+  },
+  {
+    "title": "Buffer Overflow Practice",
+    "platform": "concepts",
+    "slug": "buffer-overflow-practice",
+    "source": "https://blog.naver.com/chaeeunhur630/224348338048"
+  },
+  {
+    "title": "Launching Calculator with a Buffer Overflow",
+    "platform": "concepts",
+    "slug": "launching-calculator-with-a-buffer-overflow",
+    "source": "https://blog.naver.com/chaeeunhur630/224345040476"
+  },
+  {
+    "title": "dreamhack.io: awesome-basics",
+    "platform": "dreamhack.io",
+    "slug": "awesome-basics",
+    "source": "https://blog.naver.com/chaeeunhur630/224325145188"
+  },
+  {
+    "title": "Vulnerability Notes",
+    "platform": "concepts",
+    "slug": "vulnerability-notes",
+    "source": "https://blog.naver.com/chaeeunhur630/224325130750"
+  },
+  {
+    "title": "dreamhack.io: Sigreturn-Oriented Programming (SROP)",
+    "platform": "dreamhack.io",
+    "slug": "sigreturn-oriented-programming-srop",
+    "source": "https://blog.naver.com/chaeeunhur630/224325124965"
+  },
+  {
+    "title": "dreamhack.io: cherry",
+    "platform": "dreamhack.io",
+    "slug": "cherry",
+    "source": "https://blog.naver.com/chaeeunhur630/224325039203"
+  },
+  {
+    "title": "dreamhack.io: mmapped",
+    "platform": "dreamhack.io",
+    "slug": "mmapped",
+    "source": "https://blog.naver.com/chaeeunhur630/224320270829"
+  },
+  {
+    "title": "dreamhack.io: validator",
+    "platform": "dreamhack.io",
+    "slug": "validator",
+    "source": "https://blog.naver.com/chaeeunhur630/224319758171"
+  },
+  {
+    "title": "dreamhack.io: off_by_one_000",
+    "platform": "dreamhack.io",
+    "slug": "off-by-one-000",
+    "source": "https://blog.naver.com/chaeeunhur630/224314758417"
+  },
+  {
+    "title": "dreamhack.io: ssp_000",
+    "platform": "dreamhack.io",
+    "slug": "ssp-000",
+    "source": "https://blog.naver.com/chaeeunhur630/224314186381"
+  },
+  {
+    "title": "dreamhack.io: memory_leakage",
+    "platform": "dreamhack.io",
+    "slug": "memory-leakage",
+    "source": "https://blog.naver.com/chaeeunhur630/224313178214"
+  },
+  {
+    "title": "dreamhack.io: basic_exploitation_003",
+    "platform": "dreamhack.io",
+    "slug": "basic-exploitation-003",
+    "source": "https://blog.naver.com/chaeeunhur630/224313084076"
+  },
+  {
+    "title": "dreamhack.io: Exploit Tech: __environ",
+    "platform": "dreamhack.io",
+    "slug": "exploit-tech-environ",
+    "source": "https://blog.naver.com/chaeeunhur630/224312187043"
+  },
+  {
+    "title": "dreamhack.io: hook",
+    "platform": "dreamhack.io",
+    "slug": "hook",
+    "source": "https://blog.naver.com/chaeeunhur630/224311956970"
+  },
+  {
+    "title": "dreamhack.io: sint",
+    "platform": "dreamhack.io",
+    "slug": "sint",
+    "source": "https://blog.naver.com/chaeeunhur630/224311793098"
+  },
+  {
+    "title": "Bypassing PIE and RELRO",
+    "platform": "concepts",
+    "slug": "bypassing-pie-and-relro",
+    "source": "https://blog.naver.com/chaeeunhur630/224304590008"
+  },
+  {
+    "title": "dreamhack.io: Return to Library (RTL)",
+    "platform": "dreamhack.io",
+    "slug": "return-to-library-rtl",
+    "source": "https://blog.naver.com/chaeeunhur630/224303062367"
+  },
+  {
+    "title": "dreamhack.io: Return to Shellcode",
+    "platform": "dreamhack.io",
+    "slug": "return-to-shellcode",
+    "source": "https://blog.naver.com/chaeeunhur630/224299365809"
+  },
+  {
+    "title": "dreamhack.io: oneshot",
+    "platform": "dreamhack.io",
+    "slug": "oneshot",
+    "source": "https://blog.naver.com/chaeeunhur630/224286691938"
+  },
+  {
+    "title": "dreamhack.io Reversing Basic Challenge #6",
+    "platform": "dreamhack.io",
+    "slug": "reversing-basic-challenge-6",
+    "source": "https://blog.naver.com/chaeeunhur630/224286480790"
+  },
+  {
+    "title": "dreamhack.io: send_sig",
+    "platform": "dreamhack.io",
+    "slug": "send-sig",
+    "source": "https://blog.naver.com/chaeeunhur630/224285349276"
+  },
+  {
+    "title": "dreamhack.io: cmd_center",
+    "platform": "dreamhack.io",
+    "slug": "cmd-center",
+    "source": "https://blog.naver.com/chaeeunhur630/224285314237"
+  },
+  {
+    "title": "dreamhack.io: basic_exploitation_002",
+    "platform": "dreamhack.io",
+    "slug": "basic-exploitation-002",
+    "source": "https://blog.naver.com/chaeeunhur630/224284155554"
+  },
+  {
+    "title": "pwnable.kr: [mistake",
+    "platform": "pwnable.kr",
+    "slug": "mistake",
+    "source": "https://blog.naver.com/chaeeunhur630/224271807476"
+  },
+  {
+    "title": "pwnable.kr: [random",
+    "platform": "pwnable.kr",
+    "slug": "random",
+    "source": "https://blog.naver.com/chaeeunhur630/224270976828"
+  },
+  {
+    "title": "pwnable.kr: bof",
+    "platform": "pwnable.kr",
+    "slug": "bof",
+    "source": "https://blog.naver.com/chaeeunhur630/224242853857"
+  },
+  {
+    "title": "pwnable.kr: [collision",
+    "platform": "pwnable.kr",
+    "slug": "collision",
+    "source": "https://blog.naver.com/chaeeunhur630/224200055227"
+  },
+  {
+    "title": "pwnable.kr: [fd",
+    "platform": "pwnable.kr",
+    "slug": "fd",
+    "source": "https://blog.naver.com/chaeeunhur630/224199787393"
+  },
+  {
+    "title": "reversing.kr: PEPassword",
+    "platform": "reversing.kr",
+    "slug": "pepassword",
+    "source": "https://blog.naver.com/chaeeunhur630/224186411184"
+  },
+  {
+    "title": "reversing.kr: SimpleVM",
+    "platform": "reversing.kr",
+    "slug": "simplevm",
+    "source": "https://blog.naver.com/chaeeunhur630/224166448819"
+  },
+  {
+    "title": "reversing.kr: Direct3D FPS",
+    "platform": "reversing.kr",
+    "slug": "direct3d-fps",
+    "source": "https://blog.naver.com/chaeeunhur630/224163891187"
+  },
+  {
+    "title": "reversing.kr: WindowKernel",
+    "platform": "reversing.kr",
+    "slug": "windowkernel",
+    "source": "https://blog.naver.com/chaeeunhur630/224158282814"
+  },
+  {
+    "title": "reversing.kr: AutoHotkey2",
+    "platform": "reversing.kr",
+    "slug": "autohotkey2",
+    "source": "https://blog.naver.com/chaeeunhur630/224149734853"
+  },
+  {
+    "title": "reversing.kr: x64 Lotto",
+    "platform": "reversing.kr",
+    "slug": "x64-lotto",
+    "source": "https://blog.naver.com/chaeeunhur630/224141775823"
+  },
+  {
+    "title": "reversing.kr: AutoHotkey1",
+    "platform": "reversing.kr",
+    "slug": "autohotkey1",
+    "source": "https://blog.naver.com/chaeeunhur630/224141656146"
+  },
+  {
+    "title": "reversing.kr: HateIntel",
+    "platform": "reversing.kr",
+    "slug": "hateintel",
+    "source": "https://blog.naver.com/chaeeunhur630/224140564429"
+  },
+  {
+    "title": "reversing.kr: Flash Encrypt",
+    "platform": "reversing.kr",
+    "slug": "flash-encrypt",
+    "source": "https://blog.naver.com/chaeeunhur630/224139929724"
+  },
+  {
+    "title": "reversing.kr: Easy Unpack",
+    "platform": "reversing.kr",
+    "slug": "easy-unpack",
+    "source": "https://blog.naver.com/chaeeunhur630/224139847465"
+  },
+  {
+    "title": "reversing.kr: ImagePcr",
+    "platform": "reversing.kr",
+    "slug": "imagepcr",
+    "source": "https://blog.naver.com/chaeeunhur630/224139807571"
+  },
+  {
+    "title": "reversing.kr: Multiplication",
+    "platform": "reversing.kr",
+    "slug": "multiplication",
+    "source": "https://blog.naver.com/chaeeunhur630/224139052970"
+  },
+  {
+    "title": "reversing.kr: CSHOP",
+    "platform": "reversing.kr",
+    "slug": "cshop",
+    "source": "https://blog.naver.com/chaeeunhur630/224137683773"
+  },
+  {
+    "title": "reversing.kr: Ransomware",
+    "platform": "reversing.kr",
+    "slug": "ransomware",
+    "source": "https://blog.naver.com/chaeeunhur630/224137574600"
+  },
+  {
+    "title": "reversing.kr: Easy ELF",
+    "platform": "reversing.kr",
+    "slug": "easy-elf",
+    "source": "https://blog.naver.com/chaeeunhur630/224136587280"
+  },
+  {
+    "title": "reversing.kr: Replace",
+    "platform": "reversing.kr",
+    "slug": "replace",
+    "source": "https://blog.naver.com/chaeeunhur630/224135411832"
+  },
+  {
+    "title": "reversing.kr: Position",
+    "platform": "reversing.kr",
+    "slug": "position",
+    "source": "https://blog.naver.com/chaeeunhur630/224134933146"
+  },
+  {
+    "title": "reversing.kr: Music Player",
+    "platform": "reversing.kr",
+    "slug": "music-player",
+    "source": "https://blog.naver.com/chaeeunhur630/224134823779"
+  },
+  {
+    "title": "reversing.kr: EASY KEYGEN",
+    "platform": "reversing.kr",
+    "slug": "easy-keygen",
+    "source": "https://blog.naver.com/chaeeunhur630/224133323775"
+  },
+  {
+    "title": "reversing.kr: EASY CRACK ME",
+    "platform": "reversing.kr",
+    "slug": "easy-crack-me",
+    "source": "https://blog.naver.com/chaeeunhur630/224133257591"
+  }
+]
