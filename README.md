@@ -27,7 +27,7 @@ security-writeups/
 
 | Platform | Focus | Write-ups |
 | --- | --- | ---: |
-| [Dreamhack](wargames/dreamhack.io/) | Binary exploitation and reverse engineering | 20 |
+| [Dreamhack](wargames/dreamhack.io/) | Binary exploitation and reverse engineering | 21 |
 | [pwnable.kr](wargames/pwnable.kr/) | Binary exploitation | 5 |
 | [reversing.kr](wargames/reversing.kr/) | Reverse engineering | 20 |
 
